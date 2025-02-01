@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
         ad3 = adb.create();
 
 
-        adb.setTitle("Forth example: text with two button");
+        adb.setTitle("Forth example: text with two button ");
         adb.setMessage("This button changes the background");
         adb.setIcon(R.drawable.ic_launcher_foreground);
         adb.setPositiveButton("Close", new DialogInterface.OnClickListener()
